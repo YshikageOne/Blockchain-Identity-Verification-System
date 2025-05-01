@@ -64,7 +64,3 @@ python main.py
 - `Blockchain.py` - Blockchain implementation
 - `Block.py` - Individual block structure
 - `IdentityManager.py` - Cryptographic functions
-
-## License
-
-MIT License
